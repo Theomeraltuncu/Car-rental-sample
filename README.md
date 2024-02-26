@@ -1,5 +1,5 @@
 # Car rental website sample
-Designed clone of Amazon.com website
+Designed a sample for a car rental website
 
 # Used Technologies
 -HTML
